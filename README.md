@@ -1,8 +1,7 @@
 # 🎬 MovieLand
 
 A beautiful React application for browsing and saving your favorite superhero movies.
-
-![MovieLand Screenshot](https://i.imgur.com/example.png)
+![2025-06-29_13h16_45](https://github.com/user-attachments/assets/69310921-810f-4862-935d-b653b36fd337)
 
 ## ✨ Features
 
